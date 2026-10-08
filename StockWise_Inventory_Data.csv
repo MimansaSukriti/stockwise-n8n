@@ -1,0 +1,16 @@
+Product_ID,Product,Category,Current_Stock,Monthly_Sales,Reorder_Level,Unit_Cost_INR,Supplier_Lead_Time_Days,Weekly_Sales,Weeks_of_Stock,Inventory_Value_INR,Stock_Risk,Reorder_Recommendation
+P001,Laptop,Electronics,12,25,10,55000,14,5.8,2.1,660000,Medium,MONITOR
+P002,Wireless Mouse,Electronics,45,60,20,900,7,13.9,3.2,40500,Low,NO REORDER
+P003,Mechanical Keyboard,Electronics,8,35,15,3200,10,8.1,1,25600,High,REORDER NOW
+P004,24-inch Monitor,Electronics,20,18,10,12500,14,4.2,4.8,250000,Low,NO REORDER
+P005,USB-C Hub,Accessories,14,28,12,1800,7,6.5,2.2,25200,Low,NO REORDER
+P006,Laptop Stand,Accessories,30,12,10,2200,10,2.8,10.7,66000,Low,NO REORDER
+P007,Webcam,Electronics,6,22,10,3500,12,5.1,1.2,21000,High,REORDER NOW
+P008,Bluetooth Speaker,Audio,25,10,8,4200,14,2.3,10.9,105000,Low,NO REORDER
+P009,Headphones,Audio,18,32,12,2800,10,7.4,2.4,50400,Medium,MONITOR
+P010,Power Bank,Accessories,9,40,15,1600,7,9.2,1,14400,High,REORDER NOW
+P011,HDMI Cable,Accessories,55,20,15,650,5,4.6,12,35750,Low,NO REORDER
+P012,Tablet,Electronics,16,14,8,28000,14,3.2,5,448000,Low,NO REORDER
+P013,Wireless Charger,Accessories,11,26,10,1900,7,6,1.8,20900,Medium,MONITOR
+P014,Smartwatch,Wearables,22,16,8,6500,14,3.7,5.9,143000,Low,NO REORDER
+P015,External SSD 1TB,Storage,7,18,10,7200,10,4.2,1.7,50400,High,REORDER NOW
